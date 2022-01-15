@@ -8,9 +8,11 @@ This application is a mimic of a fully functional calculator, created with React
 ## Steps to reproduce to start the Calculator App
 
 - In the console or the integrated terminal within the directory of the project run the following command:
+
   ```
   npm start
   ```
+
   This will start the development server.
 
 ## Tech decisions
