@@ -3,7 +3,6 @@
 ## About this application
 
 This application is a mimic of a fully functional calculator, created with ReactJS.
-**This is a practice application**.
 
 ## Steps to reproduce to start the Calculator App
 
